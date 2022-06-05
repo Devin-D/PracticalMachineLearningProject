@@ -1,2 +1,5 @@
 # PracticalMachineLearningProject
 Project for Johns Hopkins Practical Machine Learning Course
+
+
+The rise of fitness tracking software has exploded in recent years. It is now possible to keep track of many kinds of data related to fitness activity in a wearable device or even a exercise machine. This has led  to the generation of a vast amounts of fitness data that can be used to gain insight into the health and well being of the user. Often these devices quantify how much of an activity a person did; steps, jumps, lifts etc. but rarely do they determine how well an exercise was preformed. Here we will use prediction based modeling to predict if an exercise was preformed correctly or incorrectly. The data comes from 6 participants who were asked to preform barbell lifts in one of two ways; incorrectly and correctly. Various data was collected during their performance and using the collected metrics we will build a prediction model that can be used to determine if the exerciser preformed the exercise correctly or not. We can in-vision a similar model being used to give real time output of exercise performance.
